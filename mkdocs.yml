@@ -1,3 +1,9 @@
 site_name: PMDM
 theme:
   name: material
+  palette:
+    primary: light green
+  features:
+    - navigation.instant
+    - navigation.path
+    - toc.follow
