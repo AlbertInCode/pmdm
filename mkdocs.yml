@@ -1,5 +1,5 @@
 site_name: PMDM
-site_url: https://albertincode.github.io/pmdm/
+site_url: https://albertincode.github.io/pmdm
 theme:
   name: material
   palette:
