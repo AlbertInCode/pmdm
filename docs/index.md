@@ -3,6 +3,7 @@
 10-Session Workshop • Beginner Friendly • Hands-On Learning!
 
 ​## What Will You Learn?
+
 In this 10-session workshop, we'll cover:
 - Game programming fundamentals
 - Character and mechanics design
@@ -11,5 +12,6 @@ In this 10-session workshop, we'll cover:
 - Game publishing basics
 
 ​### 🛠 Tools
+
 - Android Studio
 - Git for version control
