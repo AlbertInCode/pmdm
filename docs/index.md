@@ -5,11 +5,10 @@
 ## What Will You Learn?
 
 In this 10-session workshop, we'll cover:
-- Game programming fundamentals
-- Character and mechanics design
+- Understanding Game Development Basics
 - Basic physics implementation
 - Scoring and lives systems
-- Game publishing basics
+- Multimedia
 
 ### 🛠 Tools
 
