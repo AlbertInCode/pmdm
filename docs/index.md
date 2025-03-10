@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Create Your First Video Game
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+10-Session Workshop • Beginner Friendly • Hands-On Learning!
 
-## Commands
+​￼## What Will You Learn?
+In this 10-session workshop, we'll cover:
+- Game programming fundamentals
+- Character and mechanics design
+- Basic physics implementation
+- Scoring and lives systems
+- Game publishing basics
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+​￼### 🛠 Tools
+- Android Studio
+- Git for version control
